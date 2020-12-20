@@ -1,23 +1,23 @@
-# 👾XP-TNBOT👾
-BOT WHATSAPP TERMUX ONLY BY XP-TN
+# 👾HinataCans👾
+BOT WHATSAPP TERMUX ONLY BY Stylecogan11
 <p align="center">
 <img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="320">
 </p>
 <p align="center">
-<a href="#"><img title="👾XP-TN👾" src="https://img.shields.io/badge/XP-TN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="👾HinataCans👾" src="https://img.shields.io/badge/XP-TN-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/XP-TN"><img title="XP-TNNBOT" src="https://img.shields.io/badge/AUTHOR-XP-TN ID-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/HinataCans"><img title="HinataCans" src="https://img.shields.io/badge/AUTHOR-XP-TN ID-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://www.codefactor.io/repository/github/XP-TN/XP-TNNBOT"><img title="Rating" src="https://www.codefactor.io/repository/github/XP-TN/XP-TNNBOT/badge/master"></a>
+<a href="https://www.codefactor.io/repository/github/stylecogan11/HinataCans"><img title="Rating" src="https://www.codefactor.io/repository/github/stylecogan11/HinataCans/badge/master"></a>
 </p>
 <p align="center">
-<a href="https://github.com/XP-TN/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
-<a href="https://github.com/XP-TN/XP-TNNBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/XP-TN/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/XP-TN/XP-TNNBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XP-TN/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXP-TN%2FXP-TNNBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
+<a href="https://github.com/stylecogan11/HinataCans/followers"><img title="Followers" src="https://img.shields.io/github/followers/stylecogan11?color=blue&style=flat-square"></a>
+<a href="https://github.com/stylecogan11/HinataCans/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/stylecogan11/HinataCans?color=red&style=flat-square"></a>
+<a href="https://github.com/stylecogan11/HinataCans/network/members"><img title="Forks" src="http://img.shields.io/github/forks/stylecogan11/HinataCans?color=red&style=flat-square"></a>
+<a href="https://github.com/stylecogan11/HinataCans/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/stylecogan11/HinataCans?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2stylecogan11%2stylecogan11&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 </p>
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 <div align="center">
@@ -67,8 +67,8 @@ kalo lu belum punya apk termux, download di playstore
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/stylecogan11/HinataCans
+> cd HinataCans
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -78,7 +78,7 @@ Siapin alat dan bahannya.
 > Download Nodejs
 > jika udah open laLU install script ini
 > jika udh semua kalian pindahkan ke localdisk c
-> jika udah ketik di nodejs nya cd C:\XP-TNNBOT-main
+> jika udah ketik di nodejs nya cd C:\XP-HinataCans-main
 > npm i ytdl
 > npm i cwebp
 > npm i
@@ -87,12 +87,12 @@ Siapin alat dan bahannya.
 ```
 ### masih sebagaiyan vitur masih ada bug
 ```php
-Nanti kami betulkan😘 jnagan lupa follow
+Nanti kami betulkan😘 jngan lupa follow
 Github ini dan support😅
 ```
 ## Features
 
-| XP-TNBOT      |                   Feature        |
+| HinataCans      |                   Feature        |
  :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -130,12 +130,12 @@ Github ini dan support😅
 |                   MORE                           |
 
 ## Note
-BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (XP-TN)
+BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (stylecogan11)
 
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw)
-* [`Instagram Admin`](https://instagram.com/mragung23)
-* [`WhatsApp Admin `](https://wa.me/+6289655478810)
+* [`Instagram Admin`](https://instagram.com/@Cogan_1928)
+* [`WhatsApp Admin `](https://wa.me/+6289509938750)
 
 ##THANKS TO MY FRENDS
 * [`caliph71 Github`](https://github.com/Caliph71)
