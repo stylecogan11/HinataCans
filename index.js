@@ -1,8 +1,8 @@
-const  RBOT = 'RIBASBOT'; // Nama BOT Whatsapp
-const instagram = 'https://instagram.com/rbs.420?igshid=1edbmclj7n9rl'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6282193030283'; // Nomor whatsapplu cok
+const  HinataCans = 'HinataCans'; // Nama BOT Whatsapp
+const instagram = 'https://www.instagram.com/cogan_112/'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6289509938750'; // Nomor whatsapplu cok
 const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
-const groupwa = 'https://chat.whatsapp.com/Cn1l7gm2GXK1ko9wh4qJQU'; // OFFICIAL GRUP LU 1
+const groupwa = 'https://chat.whatsapp.com/DTYZirAR5jwH8qfU1gxSeI'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCVoeo63MfuTBPXlbj-ldX3Q'; 
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -21,9 +21,9 @@ const speed = require('performance-now');
 const readTextInImage = require('./lib/ocr')
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:ribasyt\n' // full name
-            + 'ORG:Owner  RBOT Bot;wa.me/+6282193030283\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6282193030283:+62 821-9303-0283\n' // WhatsApp ID + phone number
+            + 'FN:stylecogan11\n' // full name
+            + 'ORG:Owner  HinataCans Bot;wa.me/+6289509938750\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=6289509938750:+62 895-0993-8750\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 
 const
@@ -143,12 +143,12 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id RBOT wa.me/+6282193030283' ,MessageType.text);
+conn.sendMessage(id stylecogan11 wa.me/+6289509938750' ,MessageType.text);
 }
 else if (text == 'Agung'){
-conn.sendMessage(id, 'Aku BOT nya RBOT' ,MessageType.text);
+conn.sendMessage(id, 'Aku BOT nya stylecogan11' ,MessageType.text);
 }
-else if (text == 'wenda'){
+else if (text == 'wanda'){
 conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
 }
 else if (text == 'bangsat'){
@@ -1105,10 +1105,10 @@ else if (text == '#foto'){
 conn.sendMessage(id, 'kirim .foto cewek/cowok\n\nContoh: .foto cewek' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' Thanks Telah Menggunakan BOT *RBOT* , Follow Instagram Mimin Yah� : https://instagram.com/rbs.420?igshid=1edbmclj7n9rl' ,MessageType.text);
+conn.sendMessage(id, ' Thanks Telah Menggunakan BOT *HinataCans* , Follow Instagram Mimin Yah� : https://www.instagram.com/cogan_112/' ,MessageType.text);
 }
 else if (text == '#info'){
-conn.sendMessage(id, ' Thanks Telah Menggunakan BOT *RBOT* , Follow Instagram Mimin Yah� :https://instagram.com/rbs.420?igshid=1edbmclj7n9rl' ,MessageType.text);
+conn.sendMessage(id, ' Thanks Telah Menggunakan BOT *HinataCans* , Follow Instagram Mimin Yah� :https://www.instagram.com/cogan_112/' ,MessageType.text);
 }
 if (messageType == 'imageMessage')
    {
